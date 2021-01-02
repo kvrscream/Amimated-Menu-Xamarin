@@ -1,10 +1,9 @@
 ﻿<Properties StartupConfiguration="{4488DB88-7B3B-4D04-8066-B89E7B63BA7E}|Default" HasHotReloadOverlayBeenDismissed="True">
-  <MonoDevelop.Ide.ItemProperties.animatedMenu FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.animatedMenu.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" FirstBuild="True" PreferredExecutionTarget="Android.Nexus_S_API_29" />
+  <MonoDevelop.Ide.ItemProperties.animatedMenu.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" TriggeredFromHotReload="False" PreferredExecutionTarget="Android.Nexus_S_API_29" />
   <MonoDevelop.Ide.Workbench ActiveDocument="animatedMenu/MainPage.xaml">
     <Files>
-      <File FileName="animatedMenu/MainPage.xaml" Line="23" Column="24" />
-      <File FileName="animatedMenu/MainPage.xaml.cs" Line="20" Column="40" />
+      <File FileName="animatedMenu/MainPage.xaml" Line="51" Column="1" />
+      <File FileName="animatedMenu/MainPage.xaml.cs" Line="54" Column="66" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
