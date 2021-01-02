@@ -1,0 +1,14 @@
+/Users/felipe/Projects/animatedMenu/animatedMenu/bin/Debug/netstandard2.0/animatedMenu.deps.json
+/Users/felipe/Projects/animatedMenu/animatedMenu/bin/Debug/netstandard2.0/animatedMenu.dll
+/Users/felipe/Projects/animatedMenu/animatedMenu/bin/Debug/netstandard2.0/ref/animatedMenu.dll
+/Users/felipe/Projects/animatedMenu/animatedMenu/bin/Debug/netstandard2.0/animatedMenu.pdb
+/Users/felipe/Projects/animatedMenu/animatedMenu/obj/Debug/netstandard2.0/animatedMenu.csprojAssemblyReference.cache
+/Users/felipe/Projects/animatedMenu/animatedMenu/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/felipe/Projects/animatedMenu/animatedMenu/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/felipe/Projects/animatedMenu/animatedMenu/obj/Debug/netstandard2.0/animatedMenu.AssemblyInfoInputs.cache
+/Users/felipe/Projects/animatedMenu/animatedMenu/obj/Debug/netstandard2.0/animatedMenu.AssemblyInfo.cs
+/Users/felipe/Projects/animatedMenu/animatedMenu/obj/Debug/netstandard2.0/animatedMenu.csproj.CoreCompileInputs.cache
+/Users/felipe/Projects/animatedMenu/animatedMenu/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/felipe/Projects/animatedMenu/animatedMenu/obj/Debug/netstandard2.0/animatedMenu.dll
+/Users/felipe/Projects/animatedMenu/animatedMenu/obj/Debug/netstandard2.0/ref/animatedMenu.dll
+/Users/felipe/Projects/animatedMenu/animatedMenu/obj/Debug/netstandard2.0/animatedMenu.pdb

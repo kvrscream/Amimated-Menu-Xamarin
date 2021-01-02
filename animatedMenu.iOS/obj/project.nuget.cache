@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "andsS3Ct90+X9rPd45eu7kzahDnwMK/ozN5uFuPndLlAEXlU/smH3jAkjaAjeCCzEbdCPEtuqBZLFw3yhfpQnA==",
+  "success": true,
+  "projectFilePath": "/Users/felipe/Projects/animatedMenu/animatedMenu.iOS/animatedMenu.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/felipe/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/felipe/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{4488DB88-7B3B-4D04-8066-B89E7B63BA7E}|Default" HasHotReloadOverlayBeenDismissed="True">
+  <MonoDevelop.Ide.ItemProperties.animatedMenu FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.animatedMenu.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" FirstBuild="True" PreferredExecutionTarget="Android.Nexus_S_API_29" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="animatedMenu/MainPage.xaml">
+    <Files>
+      <File FileName="animatedMenu/MainPage.xaml" Line="23" Column="24" />
+      <File FileName="animatedMenu/MainPage.xaml.cs" Line="20" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="animatedMenu" expanded="True">
+            <Node name="animatedMenu" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.animatedMenu.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "J0kFMyJq9GCDSv4ljgctax7sUi9PNYJlKCWX9vyQYsB60dSggjsgJ6MRkBruzZcH6RNMgZO19aTvRE5WbkB4XA==",
+  "success": true,
+  "projectFilePath": "/Users/felipe/Projects/animatedMenu/animatedMenu/animatedMenu.csproj",
+  "expectedPackageFiles": [
+    "/Users/felipe/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/felipe/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/felipe/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/felipe/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/felipe/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
